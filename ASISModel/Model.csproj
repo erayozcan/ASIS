@@ -7,8 +7,8 @@
     <ProjectGuid>{DF70E7C7-AA51-439E-904A-66B821EA7E78}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ASISModel</RootNamespace>
-    <AssemblyName>ASISModel</AssemblyName>
+    <RootNamespace>ASIS.Model</RootNamespace>
+    <AssemblyName>ASIS.Model</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -61,10 +61,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AccountViewModels.cs" />
     <Compile Include="IdentityModels.cs" />
     <Compile Include="Incident.cs" />
-    <Compile Include="ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

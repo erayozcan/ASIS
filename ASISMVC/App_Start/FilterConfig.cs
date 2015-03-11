@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace ASISMVC
+namespace ASIS.MVC
 {
     public class FilterConfig
     {

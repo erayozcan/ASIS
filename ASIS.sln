@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASISMVC", "ASISMVC\ASISMVC.csproj", "{C0205FAD-F3C2-4286-BB34-DFCDC4663DFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "ASISMVC\MVC.csproj", "{C0205FAD-F3C2-4286-BB34-DFCDC4663DFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASISModel", "ASISModel\ASISModel.csproj", "{DF70E7C7-AA51-439E-904A-66B821EA7E78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "ASISModel\Model.csproj", "{DF70E7C7-AA51-439E-904A-66B821EA7E78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASISWebAPI", "ASISWebAPI\ASISWebAPI.csproj", "{D093BD41-3721-43F7-BBBB-AB04A25067F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "ASISWebAPI\WebAPI.csproj", "{D093BD41-3721-43F7-BBBB-AB04A25067F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASIS.Services", "ASIS.Services\ASIS.Services.csproj", "{7B23E902-FF12-4403-A076-402FF7D4F8B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D093BD41-3721-43F7-BBBB-AB04A25067F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D093BD41-3721-43F7-BBBB-AB04A25067F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D093BD41-3721-43F7-BBBB-AB04A25067F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B23E902-FF12-4403-A076-402FF7D4F8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B23E902-FF12-4403-A076-402FF7D4F8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B23E902-FF12-4403-A076-402FF7D4F8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B23E902-FF12-4403-A076-402FF7D4F8B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using Newtonsoft.Json;
 
-namespace ASISWebAPI.Models
+namespace ASIS.WebAPI.Models
 {
     // Models used as parameters to AccountController actions.
 

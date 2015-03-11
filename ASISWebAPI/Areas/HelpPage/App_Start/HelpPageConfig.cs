@@ -16,7 +16,7 @@ using System.Web.Http;
 using System.Web.Http.OData;
 #endif
 
-namespace ASISWebAPI.Areas.HelpPage
+namespace ASIS.WebAPI.Areas.HelpPage
 {
     /// <summary>
     /// Use this class to customize the Help Page.
@@ -26,7 +26,7 @@ namespace ASISWebAPI.Areas.HelpPage
     public static class HelpPageConfig
     {
         [SuppressMessage("Microsoft.Globalization", "CA1303:Do not pass literals as localized parameters",
-            MessageId = "ASISWebAPI.Areas.HelpPage.TextSample.#ctor(System.String)",
+            MessageId = "ASIS.WebAPI.Areas.HelpPage.TextSample.#ctor(System.String)",
             Justification = "End users may choose to merge this string with existing localized resources.")]
         [SuppressMessage("Microsoft.Naming", "CA2204:Literals should be spelled correctly",
             MessageId = "bsonspec",

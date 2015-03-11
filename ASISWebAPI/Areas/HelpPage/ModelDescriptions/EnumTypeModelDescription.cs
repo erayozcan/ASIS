@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace ASISWebAPI.Areas.HelpPage.ModelDescriptions
+namespace ASIS.WebAPI.Areas.HelpPage.ModelDescriptions
 {
     public class EnumTypeModelDescription : ModelDescription
     {

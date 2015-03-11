@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(ASISMVC.Startup))]
-namespace ASISMVC
+[assembly: OwinStartupAttribute(typeof(ASIS.MVC.Startup))]
+namespace ASIS.MVC
 {
     public partial class Startup
     {

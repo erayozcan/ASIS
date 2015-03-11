@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ASISModel
+namespace ASIS.Model
 {
     public class Incident
     {

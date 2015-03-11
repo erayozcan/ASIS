@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ASISWebAPI.Models
+namespace ASIS.WebAPI.Models
 {
     // Models returned by AccountController actions.
 

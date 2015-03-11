@@ -8,10 +8,10 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Microsoft.Owin.Security.OAuth;
 using Owin;
-using ASISWebAPI.Providers;
-using ASISWebAPI.Models;
+using ASIS.WebAPI.Providers;
+using ASIS.WebAPI.Models;
 
-namespace ASISWebAPI
+namespace ASIS.WebAPI
 {
     public partial class Startup
     {

@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using ASISMVC.Models;
+using ASIS.MVC.Models;
 
-namespace ASISMVC
+namespace ASIS.MVC
 {
     public partial class Startup
     {

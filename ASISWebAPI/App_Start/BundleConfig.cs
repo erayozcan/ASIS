@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ASISWebAPI
+namespace ASIS.WebAPI
 {
     public class BundleConfig
     {

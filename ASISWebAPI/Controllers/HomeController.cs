@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace ASISWebAPI.Controllers
+namespace ASIS.WebAPI.Controllers
 {
     public class HomeController : Controller
     {
